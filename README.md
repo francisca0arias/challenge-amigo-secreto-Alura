@@ -9,6 +9,8 @@ con funcionalidades de HTML y Javascript, lenguaje de programacion basico como p
 
 <h3>Funcionalidades</h3>
 
+#¿como se juega?
+El juego del Amigo Secreto en programación es una aplicación interactiva desarrollada con HTML, CSS y JavaScript que permite simular la dinámica tradicional de forma digital. El usuario comienza ingresando nombres en un campo de texto; cada entrada es validada para evitar duplicados o campos vacíos, y luego se agrega a una lista visible en pantalla. Esta lista se actualiza dinámicamente mediante manipulación del DOM, mostrando los participantes en tiempo real. Una vez que hay suficientes nombres, el usuario puede presionar el botón “Sortear”, que selecciona aleatoriamente uno de los participantes como el amigo secreto, mostrando el resultado en pantalla con un mensaje festivo. Además, se incluye una función para reiniciar el juego, que limpia la lista, el campo de entrada y el resultado del sorteo, permitiendo comenzar una nueva ronda. Esta lógica fortalece habilidades como validación, control de flujo, uso de arreglos y eventos, todo en una interfaz amigable y funcional.
 
 Funcionalidades
 Agregar nombres: Los usuarios escriben el nombre de un amigo en un campo de texto y lo agregan a la lista visible.
@@ -25,3 +27,4 @@ HTML5 → Estructura de la aplicación.
 CSS3 → Estilos y diseño responsivo.
 
 JavaScript (ES6) → Lógica de la aplicación (gestión de la lista y sorteo).
+ 
